@@ -1,2 +1,2 @@
 # Vector
-Java app for student productivity
+Java app for student productivity.
