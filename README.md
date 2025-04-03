@@ -26,7 +26,7 @@ The **Vector App** is a Java-based application designed to help students manage 
 5. **Share & Access Notes**: Upload, download, and collaborate on notes.
 
 ## 📦 Installation
-1. Clone the repository:
-   git clone https://github.com/JoeChala/vector.git
-   cd vector
+### 1. Clone the repository:
+   #### git clone https://github.com/JoeChala/vector.git
+   #### cd vector
 
